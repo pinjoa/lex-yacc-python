@@ -1,2 +1,5 @@
-# lex-yacc-python
-experiências lex+yacc em python
+# LEX-YACC-Python  
+  
+Experiências lex+yacc em python  
+  
+Projeto ainda em desenvolvimento  
