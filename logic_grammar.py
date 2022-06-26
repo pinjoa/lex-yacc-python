@@ -2,7 +2,7 @@
 # @file logic_grammar.py
 # @author João Pinto (pinjoa@gmail.com)
 # 
-# @brief módulo yacc, configuração da gramática
+# @brief módulo yacc, configuração da gramática (desafio de PL-Processamento de linguagens)
 # 
 # @version 0.1
 # @date 2022-01-07
