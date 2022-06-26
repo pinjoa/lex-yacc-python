@@ -2,7 +2,7 @@
 # @file logic_eval.py
 # @author João Pinto (pinjoa@gmail.com)
 # 
-# @brief módulo eval, configuração da lógica
+# @brief módulo eval, configuração da lógica (desafio de PL-Processamento de linguagens)
 # 
 # @version 0.1
 # @date 2022-01-07
