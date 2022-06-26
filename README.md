@@ -1,5 +1,7 @@
-# LEX-YACC-Python  
+# PL-Processamento de linguagens  
   
-Experiências lex+yacc em python  
+## LEX-YACC-Python  
+  
+Experiências lex+yacc em python na unidade curricular de Processamento de Linguagens  
   
 Projeto ainda em desenvolvimento  
