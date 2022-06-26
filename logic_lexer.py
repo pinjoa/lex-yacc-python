@@ -2,7 +2,7 @@
 # @file logic_lexer.py
 # @author João Pinto (pinjoa@gmail.com)
 # 
-# @brief módulo lexer, configuração da lista de tokens
+# @brief módulo lexer, configuração da lista de tokens (desafio de PL-Processamento de linguagens)
 # 
 # @version 0.1
 # @date 2022-01-07
