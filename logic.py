@@ -2,7 +2,7 @@
 # @file logic.py
 # @author João Pinto (pinjoa@gmail.com)
 # 
-# @brief módulo principal do programa
+# @brief módulo principal do programa (desafio de PL-Processamento de linguagens)
 # 
 # @version 0.1
 # @date 2022-01-07
@@ -38,7 +38,7 @@ def run_batch(filename):
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--file",
-                    help="Executes interactively",
+                    help="Run batch",
                     type=str)
 args = parser.parse_args()
 
